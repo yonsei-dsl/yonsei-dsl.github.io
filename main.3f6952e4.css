@@ -10,3 +10,21 @@
 .center {
     text-align: center;
 }
+
+.mission {
+
+    margin-bottom: 40px;
+}
+
+.mission-p {
+    margin-bottom: 0;
+}
+
+@media (max-width: 1000px) {
+.member {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+}
